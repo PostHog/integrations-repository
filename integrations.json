@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Segment",
+        "url": "https://posthog.com/docs/integrate/third-party/segment",
+        "description": "Send events to PostHog via Segment.",
+        "verified": true,
+        "maintainer": "official",
+        "imageUrl": ""
+    },
+    {
+        "name": "Zapier",
+        "url": "https://zapier.com/apps/posthog/integrations",
+        "description": "Automate PostHog workflows using Zapier.",
+        "verified": true,
+        "maintainer": "official",
+        "imageUrl": ""
+    },
+    {
+        "name": "Airbyte",
+        "url": "https://docs.airbyte.io/integrations/sources/posthog",
+        "description": "Send data from PostHog to Airbyte.",
+        "verified": true,
+        "maintainer": "community",
+        "imageUrl": ""
+    },
+    {
+        "name": "n8n",
+        "url": "https://docs.n8n.io/nodes/n8n-nodes-base.postHog/",
+        "description": "Automate PostHog workflows using n8n.",
+        "verified": true,
+        "maintainer": "community",
+        "imageUrl": ""
+    },
+    {
+        "name": "Sentry",
+        "url": "https://posthog.com/docs/integrate/third-party/sentry",
+        "description": "Two-way integration to get person data in Sentry and exception data in Posthog.",
+        "verified": true,
+        "maintainer": "official",
+        "imageUrl": ""
+    }
+]
+
+																			
