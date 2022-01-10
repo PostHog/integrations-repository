@@ -325,5 +325,23 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },  
+  {
+    "name": "Ingestion Alert",
+    "url": "https://github.com/PostHog/ingestion-alert-plugin",
+    "description": "This plugin triggers a webhook when no events have been ingested for a specified period of time. It can be used to alert you when ingestion for your project / instance is not working correctly..",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },  
+  {
+    "name": "Heartbeat",
+    "url": "https://github.com/PostHog/posthog-heartbeat-plugin",
+    "description": "This is a very simple plugin which sends one event to your project per minute. It can be used to ensure a continuous flow of events when monitoring whether ingestion is up and running. Works great in conjunction with Posthog Ingestion Alert Plugin",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
