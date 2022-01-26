@@ -325,7 +325,7 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_out"
-  },  
+  },
   {
     "name": "Ingestion Alert",
     "url": "https://github.com/PostHog/ingestion-alert-plugin",
@@ -334,7 +334,7 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_out"
-  },  
+  },
   {
     "name": "Heartbeat",
     "url": "https://github.com/PostHog/posthog-heartbeat-plugin",
@@ -343,5 +343,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Perk.Exchange Reward",
+    "url": "https://github.com/perkexchange/posthog-perkexchange-plugin",
+    "description": "Reward users with cryptocurrency when they trigger certain Posthog actions.",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
