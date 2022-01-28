@@ -343,5 +343,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Property Filter",
+    "url": "https://github.com/witty-works/posthog-property-filter-plugin",
+    "description": "This plugin will set all configured properties to null inside an ingested event.",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
