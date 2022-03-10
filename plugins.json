@@ -352,5 +352,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Zendesk",
+    "url": "https://github.com/PostHog/posthog-zendesk-plugin",
+    "description": "Import new and historic ticket events to PostHog, update persons in Zendesk with context about recent events from your product",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
