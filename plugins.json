@@ -173,15 +173,6 @@
     "type": "ingestion_filtering"
   },
   {
-    "name": "GitHub Star Sync",
-    "url": "https://github.com/PostHog/github-star-sync-plugin",
-    "description": "Sync GitHub stars for a repository (one event per star)",
-    "verified": true,
-    "maintainer": "official",
-    "displayOnWebsiteLib": true,
-    "type": "data_in"
-  },
-  {
     "name": "Taxonomy Standardizer",
     "url": "https://github.com/PostHog/taxonomy-plugin",
     "description": "Standardize your event names into a single pattern.",
