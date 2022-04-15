@@ -361,5 +361,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Avo Inspector Plugin",
+    "url": "https://github.com/posthog/posthog-avo-plugin",
+    "description": "Send PostHog events to the Avo Inspector",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
