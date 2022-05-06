@@ -370,5 +370,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "Drop Events Based On Property",
+    "url": "https://github.com/PostHog/drop-events-on-property-plugin",
+    "description": "Drop events based on whether a property exist and optionally whether that property has a specific value.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
