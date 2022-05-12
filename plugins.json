@@ -408,7 +408,7 @@
     "type": "data_out"
   },
   {
-    "name": "AWS Kenisis",
+    "name": "AWS Kinesis",
     "url": "https://github.com/PostHog/posthog-kinesis-plugin",
     "description": "Sends event data to Posthog from a Kinesis Stream",
     "verified": true,
