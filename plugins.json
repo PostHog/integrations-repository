@@ -379,5 +379,50 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://github.com/PostHog/posthog-twilio-plugin",
+    "description": "Send SMS messages via twilio based on events occuring in PostHog",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
+    "name": "Intercom",
+    "url": "https://github.com/PostHog/posthog-intercom-plugin",
+    "description": "Send usage data to intercom for contacts",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
+    "name": "DataBricks",
+    "url": "https://github.com/PostHog/posthog-databricks-plugin",
+    "description": "Export your PostHog data to databricks warehouse",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
+    "name": "AWS Kenisis",
+    "url": "https://github.com/PostHog/posthog-kinesis-plugin",
+    "description": "Sends event data to Posthog from a Kinesis Stream",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
+  },
+  {
+    "name": "Braze",
+    "url": "https://github.com/PostHog/posthog-braze-plugin",
+    "description": "Sends Braze analytics data series to Posthog",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
