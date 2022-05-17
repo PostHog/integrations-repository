@@ -424,5 +424,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Unduplicates",
+    "url": "https://github.com/paolodamico/posthog-plugin-unduplicates",
+    "description": "Prevent duplicates in your data by rejecting duplicate events at ingestion.",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
