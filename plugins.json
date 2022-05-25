@@ -427,8 +427,8 @@
   },
   {
     "name": "Unduplicates",
-    "url": "https://github.com/paolodamico/posthog-plugin-unduplicates",
-    "description": "Prevent duplicates in your data by rejecting duplicate events at ingestion.",
+    "url": "https://github.com/paolodamico/posthog-app-unduplicates",
+    "description": "Prevent duplicates in your data.",
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": true,
