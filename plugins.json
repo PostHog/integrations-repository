@@ -424,5 +424,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Unduplicates",
+    "url": "https://github.com/paolodamico/posthog-app-unduplicates",
+    "description": "Prevent duplicates in your data.",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
