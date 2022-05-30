@@ -433,5 +433,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Variance",
+    "url": "https://github.com/PostHog/posthog-variance-plugin",
+    "description": "Export customer data into Variance.",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
