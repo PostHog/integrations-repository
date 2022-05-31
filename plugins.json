@@ -442,5 +442,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "Shopify Connector",
+    "url": "https://github.com/posthog/posthog-shopify-sync-plugin",
+    "description": "Sync customer and order data from Shopify, into PostHog..",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
