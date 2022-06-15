@@ -455,7 +455,7 @@
   {
     "name": "Engage.so Connector",
     "url": "https://github.com/PostHog/posthog-engage-so-plugin",
-    "description": "Send events tracked through Posthog to Engage.",
+    "description": "Send events tracked through PostHog to Engage.",
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": true,
