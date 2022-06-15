@@ -451,5 +451,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_in"
+  },
+  {
+    "name": "Engage.so Connector",
+    "url": "https://github.com/PostHog/posthog-engage-so-plugin",
+    "description": "Send events tracked through Posthog to Engage.",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
