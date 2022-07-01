@@ -417,15 +417,6 @@
     "type": "data_in"
   },
   {
-    "name": "Braze",
-    "url": "https://github.com/PostHog/posthog-braze-plugin",
-    "description": "Sends Braze analytics data series to Posthog",
-    "verified": true,
-    "maintainer": "community",
-    "displayOnWebsiteLib": true,
-    "type": "data_in"
-  },
-  {
     "name": "Unduplicates",
     "url": "https://github.com/paolodamico/posthog-app-unduplicates",
     "description": "Prevent duplicates in your data.",
