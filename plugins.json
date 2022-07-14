@@ -426,6 +426,15 @@
     "type": "data_in"
   },
   {
+    "name": "Advanced GeoIP",
+    "url": "https://github.com/paolodamico/posthog-app-advanced-geoip",
+    "description": "Advanced GeoIP filtering app for PostHog.",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
+  },
+  {
     "name": "Variance",
     "url": "https://github.com/PostHog/posthog-variance-plugin",
     "description": "Export customer data into Variance.",
