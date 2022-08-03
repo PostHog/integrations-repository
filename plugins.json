@@ -469,5 +469,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering"
+  },
+  {
+    "name": "Patterns.app Connector",
+    "url": "https://github.com/PostHog/posthog-patterns-app",
+    "description": "Send events tracked through PostHog to Patterns",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
