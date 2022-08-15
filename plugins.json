@@ -210,13 +210,13 @@
   },
   {
     "name": "Salesforce",
-    "url": "https://github.com/Vinovest/posthog-salesforce",
+    "url": "https://github.com/PostHog/salesforce-plugin",
     "description": "Send events to a salesforce endpoint",
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_out",
-    "imageLink": "https://raw.githubusercontent.com/Vinovest/posthog-salesforce/main/logo.png"
+    "imageLink": "https://raw.githubusercontent.com/PostHog/salesforce-plugin/main/logo.png"
   },
   {
     "name": "Redshift Export",
