@@ -128,7 +128,7 @@
   },
   {
     "name": "Pub/Sub Export",
-    "url": "https://github.com/vendasta/pubsub-plugin",
+    "url": "https://github.com/posthog/pubsub-plugin",
     "description": "Sends events to a Google Pub/Sub topic on ingestion.",
     "verified": true,
     "maintainer": "community",
