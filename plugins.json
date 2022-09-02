@@ -478,5 +478,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "SemVer Flattener",
+    "url": "https://github.com/PostHog/semver-flattener-plugin",
+    "description": "Flattens a SemVer version into useful standalone properties.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
   }
 ]
