@@ -489,7 +489,7 @@
     "type": "ingestion_filtering"
   },
   {
-    "name": "Filter Out Plugin",
+    "name": "Filter Out",
     "url": "https://github.com/PostHog/posthog-filter-out-plugin",
     "description": "Injest only those events satisfying the given filter conditions",
     "verified": true,
