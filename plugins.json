@@ -496,5 +496,32 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering"
+  },
+  {
+    "name": "Pineapple Mode",
+    "url": "https://github.com/PostHog/pineapple-mode-app",
+    "description": "Make any website better by adding falling pineapples or other types of rain.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "site"
+  },
+  {
+    "name": "Notification Bar",
+    "url": "https://github.com/PostHog/notification-bar-app",
+    "description": "Show a notification bar on top of your site.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "site"
+  },
+  {
+    "name": "Feedback Widget",
+    "url": "https://github.com/PostHog/feedback-app",
+    "description": "Collect feedback from your users with a small homepage widget.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "site"
   }
 ]
