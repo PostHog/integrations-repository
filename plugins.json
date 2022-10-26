@@ -496,5 +496,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering"
+  },
+  {
+    "name": "Laudspeaker",
+    "url": "https://github.com/PostHog/posthog-laudspeaker-app",
+    "description": "Send event data to Laudspeaker",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
