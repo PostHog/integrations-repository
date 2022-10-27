@@ -505,5 +505,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "Drop Events based on Property",
+    "url": "https://github.com/PostHog/drop-events-on-property-plugin",
+    "description": "This plugin will drop all events if it contains the property key, and optionally whether that property has a specific value",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
   }
 ]
