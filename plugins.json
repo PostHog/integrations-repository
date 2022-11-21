@@ -523,5 +523,32 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "site"
+  },
+  {
+    "name": "Laudspeaker",
+    "url": "https://github.com/PostHog/posthog-laudspeaker-app",
+    "description": "Send event data to Laudspeaker",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
+  {
+    "name": "Drop Events based on Property",
+    "url": "https://github.com/PostHog/drop-events-on-property-plugin",
+    "description": "This plugin will drop all events if it contains the property key, and optionally whether that property has a specific value",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
+  },
+  {
+    "name": "Language URL splitter",
+    "url": "https://github.com/PostHog/language-url-splitter-app",
+    "description": "Remove `/en` in `/en/bla`, and store it as an event property.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
   }
 ]
