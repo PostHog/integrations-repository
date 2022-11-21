@@ -514,5 +514,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering"
+  },
+  {
+    "name": "Language URL splitter",
+    "url": "https://github.com/PostHog/language-url-splitter-app",
+    "description": "Remove `/en` in `/en/bla`, and store it as an event property.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "ingestion_filtering"
   }
 ]
