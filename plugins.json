@@ -552,7 +552,7 @@
     "type": "ingestion_filtering"
   },
   {
-    "name": "Pace Integration",
+    "name": "Pace",
     "url": "https://github.com/PostHog/pace-posthog-integration",
     "description": "Send event data to Laudspeaker",
     "verified": true,
