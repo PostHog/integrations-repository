@@ -550,5 +550,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering"
+  },
+  {
+    "name": "Pace Integration",
+    "url": "https://github.com/PostHog/pace-posthog-integration",
+    "description": "Send event data to Laudspeaker",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
