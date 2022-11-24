@@ -554,7 +554,7 @@
   {
     "name": "Pace",
     "url": "https://github.com/PostHog/pace-posthog-integration",
-    "description": "Send event data to Laudspeaker",
+    "description": "Forward events directly to Pace",
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": true,
