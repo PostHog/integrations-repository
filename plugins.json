@@ -550,5 +550,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "ingestion_filtering"
+  },
+  {
+    "name": "Pace",
+    "url": "https://github.com/PostHog/pace-posthog-integration",
+    "description": "Forward events directly to Pace",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
