@@ -571,7 +571,7 @@
   },
   {
     "name": "Stonly Extract UTM",
-    "url": "https://github.com/stonly-data-tech/UTM-Extractor/blob/main/index.ts",
+    "url": "https://github.com/stonly-data-tech/UTM-Extractor",
     "description": "Extract UTM parameters for Stonly",
     "verified": true,
     "maintainer": "community",
