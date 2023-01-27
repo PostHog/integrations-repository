@@ -359,7 +359,7 @@
     "description": "Process events for Netdata",
     "verified": true,
     "maintainer": "community",
-    "displayOnWebsiteLib": true,
+    "displayOnWebsiteLib": false,
     "type": "data_in"
   },
   {
