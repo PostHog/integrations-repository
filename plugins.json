@@ -359,7 +359,7 @@
     "description": "Process events for Netdata",
     "verified": true,
     "maintainer": "community",
-    "displayOnWebsiteLib": true,
+    "displayOnWebsiteLib": false,
     "type": "data_in"
   },
   {
@@ -559,5 +559,23 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "Stonly Clean Campaign Name",
+    "url": "https://github.com/stonly-data-tech/Clean-Campaign-Name",
+    "description": "Clean campaign name for Stonly",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": false,
+    "type": "ingestion_filtering"
+  },
+  {
+    "name": "Stonly Extract UTM",
+    "url": "https://github.com/stonly-data-tech/UTM-Extractor",
+    "description": "Extract UTM parameters for Stonly",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": false,
+    "type": "ingestion_filtering"
   }
 ]
