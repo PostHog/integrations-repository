@@ -577,5 +577,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": false,
     "type": "ingestion_filtering"
-  }
+  },
+  {
+    "name": "Outfunnel Export",
+    "url": "https://github.com/PostHog/outfunel-export-plugin",
+    "description": "Export events to Outfunnel",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
+  },
 ]
