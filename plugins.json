@@ -580,7 +580,7 @@
   },
   {
     "name": "Outfunnel Export",
-    "url": "https://github.com/PostHog/outfunel-export-plugin",
+    "url": "https://github.com/PostHog/outfunnel-export-plugin",
     "description": "Export events to Outfunnel",
     "verified": true,
     "maintainer": "community",
