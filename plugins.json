@@ -525,6 +525,15 @@
     "type": "site"
   },
   {
+    "name": "User Interview App",
+    "url": "https://github.com/PostHog/user-interview-app",
+    "description": "Invite your users to an interview through an in-app pop-up with this app.",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "site"
+  },
+  {
     "name": "Laudspeaker",
     "url": "https://github.com/PostHog/posthog-laudspeaker-app",
     "description": "Send event data to Laudspeaker",
