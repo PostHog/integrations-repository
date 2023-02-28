@@ -612,6 +612,6 @@
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "data_out"
   }
 ]
