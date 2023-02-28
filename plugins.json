@@ -595,5 +595,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "URL parameters to event properties",
+    "url": "https://github.com/PostHog/posthog-app-url-parameters-to-event-properties",
+    "description": "Convert URL query parameters to event properties",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
