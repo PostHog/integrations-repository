@@ -603,7 +603,7 @@
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "ingestion_filtering"
   },
   {
     "name": "Memphis Export",
