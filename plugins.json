@@ -603,6 +603,15 @@
     "verified": true,
     "maintainer": "community",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "ingestion_filtering"
+  },
+  {
+    "name": "Memphis Export",
+    "url": "https://github.com/PostHog/posthog-memphisdev-app",
+    "description": "Publish PostHog events to memphis station",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_out"
   }
 ]
