@@ -613,5 +613,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_out"
+  },
+  {
+    "name": "Route Censor",
+    "url": "https://github.com/PostHog/posthog-route-censor-plugin",
+    "description": "Censor variables from URLs that are passed to PostHog",
+    "verified": true,
+    "maintainer": "community",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
   }
 ]
