@@ -622,5 +622,14 @@
     "maintainer": "community",
     "displayOnWebsiteLib": true,
     "type": "data_in"
-  }
+  },
+  {
+    "name": "Early Access Features App",
+    "url": "https://github.com/PostHog/early-access-features-app",
+    "description": "Give your users the ability to directly enable or disable features you want to beta test",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "site"
+  },
 ]
