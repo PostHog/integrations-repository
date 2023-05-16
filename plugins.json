@@ -630,7 +630,7 @@
     "verified": true,
     "maintainer": "official",
     "displayOnWebsiteLib": true,
-    "type": "data_in"
+    "type": "site"
   },
   {
     "name": "Early Access Features App",
