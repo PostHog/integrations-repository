@@ -615,11 +615,20 @@
     "type": "data_out"
   },
   {
-    "name": "Route Censor",
-    "url": "https://github.com/PostHog/posthog-route-censor-plugin",
-    "description": "Censor variables from URLs that are passed to PostHog",
+    "name": "Currency Normalization",
+    "url": "https://github.com/PostHog/currency-normalization-plugin",
+    "description": "Normalise monetary values into a base currency",
     "verified": true,
-    "maintainer": "community",
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "data_in"
+  },
+  {
+    "name": "NPS Score Collector",
+    "url": "https://github.com/PostHog/nps-score-app",
+    "description": "Collect NPS scores from your users",
+    "verified": true,
+    "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "data_in"
   },
