@@ -640,5 +640,14 @@
     "maintainer": "official",
     "displayOnWebsiteLib": true,
     "type": "site"
+  },
+  {
+    "name": "Surveys App",
+    "url": "https://github.com/PostHog/feature-surveys",
+    "description": "Gather user qualitative data for your product and features",
+    "verified": true,
+    "maintainer": "official",
+    "displayOnWebsiteLib": true,
+    "type": "site"
   }
 ]
