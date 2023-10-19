@@ -624,15 +624,6 @@
     "type": "data_in"
   },
   {
-    "name": "NPS Survey app",
-    "url": "https://github.com/PostHog/nps-survey-app",
-    "description": "Collect NPS score ratings from your users",
-    "verified": true,
-    "maintainer": "official",
-    "displayOnWebsiteLib": true,
-    "type": "site"
-  },
-  {
     "name": "Early Access Features App",
     "url": "https://github.com/PostHog/early-access-features-app",
     "description": "Give your users the ability to directly enable or disable features you want to beta test",
@@ -641,13 +632,4 @@
     "displayOnWebsiteLib": true,
     "type": "site"
   },
-  {
-    "name": "Surveys App",
-    "url": "https://github.com/PostHog/feature-surveys",
-    "description": "Gather user qualitative data for your product and features",
-    "verified": true,
-    "maintainer": "official",
-    "displayOnWebsiteLib": true,
-    "type": "site"
-  }
 ]
